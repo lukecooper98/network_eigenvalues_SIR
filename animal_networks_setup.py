@@ -1,4 +1,4 @@
-path = 'Animal Networks/*.edges' #change this directory to wherever you're storing the networks
+path = 'Animal_Networks/*.edges' #change this directory to wherever you're storing the networks
 
 files = glob.glob(path)
 graphList = []
