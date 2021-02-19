@@ -1,3 +1,4 @@
+import functions
 n=100 #fixed number of vertices for all randomly generated graphs
 
 beta = 1 #infection rate along edge ij is ijth entry of the matrix U or T times beta (default 1)
