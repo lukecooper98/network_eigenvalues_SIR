@@ -1,3 +1,4 @@
+import functions
 path = 'Animal_Networks/*.edges' #change this directory to wherever you're storing the networks
 
 files = glob.glob(path)
