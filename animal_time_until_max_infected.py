@@ -1,3 +1,4 @@
+import functions
 beta = 1 #infection rate along edge ij is ijth entry of the matrix U or T times beta (default 1)
 
 iterations=100 #number of simulations run for each randomly generated network
